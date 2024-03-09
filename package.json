@@ -1,0 +1,8 @@
+{
+  "name": "pixi-e2e-demo",
+  "private": true,
+  "workspaces": [
+    "game-app",
+    "game-e2e"
+  ]
+}
